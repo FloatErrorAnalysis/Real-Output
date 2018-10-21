@@ -16,7 +16,7 @@ bool is_zero(double x) {
 // Generate data from low bound to high bound, set initial gap as 1
 double generate_data(double low_bound, double high_bound, double gap) {
     ofstream file;
-    file.open("./dataset/double/sqrt_minus.csv");
+    file.open("../dataset/double/sqrt_minus1.csv");
     file << "x,y\n";
     for(double i = low_bound; i <= high_bound && is_zero(i); i+=gap) {
         file << i << "," << sqrt_minus(i) << "\n";
