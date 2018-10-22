@@ -11,16 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6fa4106-7753-4e8c-b807-ffce74d4435b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataset/double/sqrt_minus.csv1" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Real_Output.dir/functions/sqrt_minus.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Real_Output.dir/functions/sqrt_minus.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Real_Output.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Real_Output.dir/CXX.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/double/sqrt_minus.csv" afterPath="$PROJECT_DIR$/dataset/double/sqrt_minus.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/sqrt_minus.cpp" afterPath="$PROJECT_DIR$/functions/sqrt_minus.cpp" />
-    </list>
+    <list default="true" id="c6fa4106-7753-4e8c-b807-ffce74d4435b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +45,7 @@
       <file leaf-file-name="sqrt_minus.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions/sqrt_minus.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="-6">
               <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
               <folding>
                 <element signature="e#38#55#0" expanded="true" />
@@ -192,12 +183,12 @@
       <workItem from="1540017399679" duration="894000" />
       <workItem from="1540019048054" duration="119000" />
       <workItem from="1540019386423" duration="871000" />
-      <workItem from="1540110741344" duration="341000" />
+      <workItem from="1540110741344" duration="893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3894000" />
+    <option name="totallyTimeSpent" value="4446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="815" extended-state="0" />
@@ -419,7 +410,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions/sqrt_minus.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="-6">
           <caret line="15" column="48" lean-forward="false" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
           <folding>
             <element signature="e#38#55#0" expanded="true" />
