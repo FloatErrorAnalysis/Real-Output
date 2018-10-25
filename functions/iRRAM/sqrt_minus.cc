@@ -18,7 +18,7 @@ REAL sqrt_minus(double x) {
 }
 
 void compute() {
-    orstream myfile("/Users/py/GitHub/Real-Output/dataset/sqrt_minus.csv", std::ios::out);
+    orstream myfile("../dataset/iRRAM/sqrt_minus1.csv", std::ios::out);
     myfile << "x" << ","<< "y" << std::endl;
     int i;
     for(i = begin_x; i <= end_x; i+=gap) {
