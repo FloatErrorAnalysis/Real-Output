@@ -1,6 +1,9 @@
 # DIY
 target/
 cmake-build-debug/
+
+# data
+dataset/
  
 # svn
 .svn/
