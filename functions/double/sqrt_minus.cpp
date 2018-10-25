@@ -1,7 +1,7 @@
 //
 // Created by py on 2018/10/18.
 //
-#include "math.h"
+#include "cmath"
 #include <iostream>
 #include <fstream>
 using namespace std;
