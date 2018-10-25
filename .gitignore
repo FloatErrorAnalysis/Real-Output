@@ -1,5 +1,6 @@
 # DIY
 target/
+cmake-build-debug/
  
 # svn
 .svn/

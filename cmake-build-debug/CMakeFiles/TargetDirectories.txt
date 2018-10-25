@@ -1,3 +1,0 @@
-/Users/py/GitHub/Real-Output/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/py/GitHub/Real-Output/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/py/GitHub/Real-Output/cmake-build-debug/CMakeFiles/Real_Output.dir
