@@ -25,6 +25,6 @@ double generate_data(double low_bound, double high_bound, double gap) {
 }
 
 int main() {
-    generate_data(0.0, 10e40, 10);
+    cout << sqrt_minus(10e50) << endl;
     return 0;
 }
