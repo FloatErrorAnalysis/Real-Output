@@ -8,6 +8,6 @@ include_directories(iRRAM/include /usr/local/include)
 link_libraries(${Real_Output_SOURCE_DIR}/iRRAM/lib/libiRRAM.a)
 link_libraries(${Real_Output_SOURCE_DIR}/iRRAM/lib/libgmp.a)
 link_libraries(${Real_Output_SOURCE_DIR}/iRRAM/lib/libmpfr.a)
-set(SOURCE_FILES functions/error_sqrt_minus.cpp)
+set(SOURCE_FILES x/functions/error_sqrt_minus.cpp)
 
 add_executable(Real_Output ${SOURCE_FILES})
